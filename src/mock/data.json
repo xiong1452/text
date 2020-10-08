@@ -1,0 +1,33 @@
+[{
+    "image": "/src/assets/1.jpg",
+    "audioSrc": "/src/assets/街道办GDC、欧阳耀莹 - 春娇与志明.flac",
+    "name": "春娇与志明",
+    "album": "春娇与志明",
+    "singer": "欧阳耀莹",
+    "duration": 205,
+    "isLike": true
+},{
+    "image": "/src/assets/2.jpg",
+    "audioSrc": "/src/assets/泠鸢yousa、茶理理理子、hanser、三无Marblue - 千里邀月.flac",
+    "name": "千里邀月",
+    "album": "超梦计划",
+    "singer": "冷鸢yousa",
+    "duration": 246,
+    "isLike": false
+},{
+    "image": "/src/assets/3.jpg",
+    "audioSrc": "/src/assets/Aiobahn - 枕元にゴースト.flac",
+    "name": "枕元にゴースト",
+    "album": "枕元にゴースト",
+    "singer": "Aiobahn",
+    "duration": 225,
+    "isLike": false
+},{
+    "image": "/src/assets/4.jpg",
+    "audioSrc": "/src/assets/林ゆうき - We Must Go.flac",
+    "name": "We Must Go",
+    "album": "强风吹拂",
+    "singer": "林ゆうき",
+    "duration": 376,
+    "isLike": false  
+}]
